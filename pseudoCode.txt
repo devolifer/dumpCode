@@ -1,0 +1,6 @@
+REGRAS DO TETRIS:
+(como se vence, perde-se, etc)
+REGRAS DE PONTUAÇÃO :
+(quantos pontos ganho)
+ASPECTO GERAL:
+(etc..etc..)
